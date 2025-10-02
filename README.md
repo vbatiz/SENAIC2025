@@ -42,7 +42,7 @@ Zatarain Cabada, R., Barrón Estrada, M. L., González Robles, A., Bátiz Beltr�
 ### Corpus SentiText y Corpus EduSERE
 Barrón Estrada, M. L., Zatarain Cabada, R., Oramas Bustillos, R., & Graff, M. (2020). Opinion mining and emotion recognition applied to learning environments. Expert Systems with Applications, 150, 113265. https://doi.org/10.1016/j.eswa.2020.113265
 
-Zatarain Cabada, R., Barrón Estrada, M. L., Bátiz Beltrán, V. M. (2023). Advanced Applications of Generative AI and Natural Language Processing Models (Chapter 15). Deep Learning Approaches for Affective Computing in Text (pages 306-339). DOI: 10.4018/979-8-3693-0502-7.ch015.
+Zatarain Cabada, R., Barrón Estrada, M. L., Bátiz Beltrán, V. M. (2023). Advanced Applications of Generative AI and Natural Language Processing Models (Chapter 15). Deep Learning Approaches for Affective Computing in Text (pages 306-339). DOI: https://10.4018/979-8-3693-0502-7.ch015.
 
 ### Corpus PersonText
 Bátiz Beltrán, V. M., Zatarain Cabada, R., & Barrón Estrada, M. L. (2024). Creation of a Corpus in Spanish for the recognition of personality traits. Computación y Sistemas, Volumen 28, No. 3, 2024. ISSN: 2007-9737. Disponible en línea: https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/4619/3734
